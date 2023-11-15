@@ -10,6 +10,7 @@ package modelo;
  * Clase que representa una galleta.
  *
  */
+//galletas
 public class Galleta {
     private int idGalleta;
     private String nombre;
