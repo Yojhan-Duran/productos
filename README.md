@@ -1,1 +1,1 @@
-# Inventario_MVC_JAVA
+# Inventario
