@@ -1,5 +1,5 @@
 package modelo;
-
+//arreglos 2.0
 /**
  *
  * Clase que representa un fideo.
